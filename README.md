@@ -15,6 +15,6 @@ In this challenge, I was given the task of editing a starter code so that when t
 
 Live application:
 
-![Screenshot of deployed application](assets/images/Password-Generator%20Screenshot.textClipping)
+![Screenshot of deployed application](assets/images/password-generator-screenshot.png)
 
 * Source code: yaser/bootcamp/password-generator
