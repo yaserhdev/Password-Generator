@@ -13,7 +13,7 @@ In this challenge, I was given the task of editing a starter code so that when t
 - when all prompts are answered the generator returns a randomized password based on the users selected critera
 
 
-Live application:
+Live application: https://yaserhdev.github.io/password-generator/
 
 ![Screenshot of deployed application](assets/images/password-generator-screenshot.png)
 
